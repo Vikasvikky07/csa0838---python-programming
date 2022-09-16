@@ -15,3 +15,11 @@ season.py
 shares.py
 stair case.py
 sum of n.py
+employees salary.py
+function shuffle.py
+last word in the string.py
+longest sub string.py
+peak element.py
+perfect square number.py
+reverse word in a string.py
+triangular array.py
