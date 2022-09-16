@@ -33,3 +33,9 @@ no of ways to climb stairs.py
 Palindrome.py
 Sorted vowels in a string.py
 Valid number.py
+little robert.py
+prg for array string.py
+prg for non teachingstaff.py
+prg for remove character.py
+prg for valid palindrome.py
+Season.py
