@@ -23,3 +23,13 @@ peak element.py
 perfect square number.py
 reverse word in a string.py
 triangular array.py
+Bakery.py
+Even and odd in a list.py
+Happy number.py
+leap year.py
+Maximum no of guests.py
+Modification of string.py
+no of ways to climb stairs.py
+Palindrome.py
+Sorted vowels in a string.py
+Valid number.py
